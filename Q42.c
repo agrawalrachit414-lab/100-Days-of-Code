@@ -15,4 +15,5 @@ int main(){
         printf("NOT A PERFECT NUMBER");
     }
     return 0;
+
 }
